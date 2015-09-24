@@ -2,7 +2,7 @@
 
 C’est quoi un bon site ? C’est quoi un site qui rapporte des points dans le cours de *Projets Web* ? Je fais la proposition suivante :
 
-Un bon produit multimédia est un produit qui satisfait ses propriétaires, ses utilisateurs et ses réalisateurs quels que soient les conditions dans lesquels il est exploité.
+Un bon produit multimédia est un produit qui satisfait ses propriétaires, ses utilisateurs et ses réalisateurs quelles que soient les conditions dans lesquelles il est exploité.
 
 Cette proposition couvre de nombreux aspects de la qualité. Elle implique qu‘un bon produit multimédia doit être :
 
@@ -29,6 +29,6 @@ C’est souvent seulement à l’école qu’on a l’occasion de travailler sur
 - un site pour un client ([le centre alfa](http://www.centrealfa.be))
 
 
-## Qui cotera
+## Qui cotera ?
 
 Un jury d’invités, lors d’une journée de rencontres.
